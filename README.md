@@ -176,7 +176,7 @@ Out[1]: Number of GPUs available: 2
 
 ### Inception V3 vs Xception 
 
-![in](../images/train_invsx.png)
+![in](/images/train_invsx.png)
 
 | Models/Performances| Parameters| Accuracy | Running time (s)|
 |----------|----------|----------|----------|
