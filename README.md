@@ -164,6 +164,7 @@ transform_test = transforms.Compose([
 ### Ressources
 
 * Kaggle notebook accelerated with 2 GPU T4
+
  In[1]: 
  ```python
 import torch
