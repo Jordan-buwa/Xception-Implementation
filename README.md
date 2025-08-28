@@ -208,6 +208,12 @@ model.AuxLogits.fc = nn.Linear(model.AuxLogits.fc.in_features, num_classes)
 
 ![Activations](/images/train_activations.png)
 
+## References
+
+1. [Computer vision ](https://viso.ai/computer-vision/)
+2. [Deep Learning](https://viso.ai/deep-learning/)
+3. [Kaggle notebook](https://www.kaggle.com/code/yasserh/xception-implementation)
+4. [Xception paper](https://arxiv.org/pdf/1610.02357)
 
 
 
